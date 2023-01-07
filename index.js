@@ -24,7 +24,7 @@ const BUSINESS_NEWS = "https://saurav.tech/NewsAPI/top-headlines/category/busine
 const SPORTS_NEWS = "https://saurav.tech/NewsAPI/top-headlines/category/sports/in.json";
 const ENTERTAINMENT_NEWS = "https://saurav.tech/NewsAPI/top-headlines/category/entertainment/in.json";
 const TECHNOLOGY_NEWS = "https://saurav.tech/NewsAPI/top-headlines/category/technology/in.json";
-const THAI_NEWS="https://newsapi.org/v2/top-headlines?country=th&category=business&apiKey=01ecf8ea5d3b4f289911fb085a4192c4"
+const THAI_NEWS="https://newsapi.org/v2/top-headlines?country=th&apiKey=01ecf8ea5d3b4f289911fb085a4192c4"
 const HEALTH_NEWS = "https://saurav.tech/NewsAPI/top-headlines/category/health/in.json";
 
 //const SEARCH_NEWS = "https://saurav.tech/NewsAPI/sources.json";
